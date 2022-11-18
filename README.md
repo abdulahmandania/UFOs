@@ -1,4 +1,6 @@
 # UFOs
+![image](https://user-images.githubusercontent.com/111723067/202633645-fe8dab5a-44db-4401-bb94-21cf24c56085.png)
+
 ### Overview
 Take a Javascript file on UFO sighting information and display it as a table. We will add filters to make this table fully dynamic, making it to where it will react to user input. We will also put it on an HTML page for easy and clear viewing. You'll customize your webpage using Bootstrap, and equip your table with filters that will allow the user to interact with the data.
 ### Results
