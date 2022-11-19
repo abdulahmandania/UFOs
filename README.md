@@ -6,5 +6,7 @@ Take a Javascript file on UFO sighting information and display it as a table. We
 ### Results
 The user is able to type in the search fields which criteria they want to filer by. You can use one or all of the fields.
 ### Summary
+![UFOs website](https://user-images.githubusercontent.com/111723067/202823199-4b83b9d4-fc0e-472d-a9a0-a351503a9f78.png)
+
 - Adding a drop down menu for the date range could be useful for users who don't have access to the dataset. This would be easier than typing random dates and searching that way.
 - The user interface in the html is too dark and hard to read, however it was what I was instructed to use in the module.
